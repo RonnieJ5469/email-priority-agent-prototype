@@ -54,9 +54,3 @@ streamlit run app.py
 - `OPENAI_MODEL`
 - `GEMINI_MODEL`
 - `MINIMAX_MODEL`
-
-## 上传仓库前说明
-
-- `.env` 不要上传
-- 本仓库已通过 `.gitignore` 排除缓存和本地配置
-- 如果要公开仓库，请确认 `config/user_context.json` 中的人名和业务信息可以公开
