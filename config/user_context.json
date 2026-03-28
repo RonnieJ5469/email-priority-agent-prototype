@@ -1,0 +1,38 @@
+{
+  "name": "林一凡",
+  "title": "Senior AI Product Manager",
+  "company": "ByteFlow AI",
+  "manager_name": "Claire Yu",
+  "critical_contacts": [
+    {"name": "Claire Yu", "role": "Head of AI Products / 直属 Leader", "email_domain": "byteflow.ai"},
+    {"name": "Kevin Chen", "role": "CTO", "email_domain": "byteflow.ai"},
+    {"name": "Emily Zhang", "role": "Knowledge System Project Owner", "email_domain": "byteflow.ai"}
+  ],
+  "high_contacts": [
+    {"name": "David Liu", "role": "Sales Director", "email_domain": "byteflow.ai"},
+    {"name": "Sarah Wong", "role": "Enterprise Client A Contact", "email_domain": "client-a.com"},
+    {"name": "Jason Wu", "role": "Algorithm Lead", "email_domain": "byteflow.ai"}
+  ],
+  "standard_contacts": [
+    {"name": "Mia", "role": "PM Colleague", "email_domain": "byteflow.ai"},
+    {"name": "Tony", "role": "Designer", "email_domain": "byteflow.ai"},
+    {"name": "HR BP", "role": "Human Resources", "email_domain": "byteflow.ai"}
+  ],
+  "active_projects": [
+    {
+      "name": "Knowledge Nucleus System",
+      "keywords": ["Memory", "Context Engineering", "Agent基础能力", "知识中枢", "记忆", "上下文", "knowledge"],
+      "deadline": "2026-04-30"
+    },
+    {
+      "name": "Email Agent",
+      "keywords": ["Email triage", "自动回复", "优先级判断", "企业办公", "Inbox Copilot", "邮件", "email agent", "inbox"],
+      "deadline": "2026-04-15"
+    },
+    {
+      "name": "Smartflow 3.5",
+      "keywords": ["多工具编排", "个性化", "记忆应用", "任务成功率", "Agent升级", "Smartflow", "工具调用"],
+      "deadline": "2026-05-10"
+    }
+  ]
+}
